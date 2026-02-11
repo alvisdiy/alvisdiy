@@ -31,3 +31,10 @@ I enjoy working on real-world projects that combine data analysis, machine learn
 - LinkedIn: https://www.linkedin.com/in/alvis-aditya-b493172b6/
 - Email: alvisdty@gmail.com
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/alvisdiy">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alvisdiy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alvisdiy&layout=compact&theme=algolia"/>
+</a>
+</p>
