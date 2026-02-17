@@ -16,17 +16,6 @@ I enjoy working on real-world projects that combine data analysis, machine learn
 - Web: HTML, CSS, JavaScript, PHP
 - Tools: Git, GitHub, Jupyter Notebook
 
-## Featured Projects
-- **Email Fraud Detection (Capstone Project)**  
-  A machine learning project to detect fraudulent emails using text preprocessing and classification models.
-- **Campus Facility Reporting Web App**  
-  A web-based system for reporting and managing campus facility issues, designed to support monitoring and follow-up processes.
-
-## What I'm Improving
-- Data preprocessing and feature engineering  
-- Model evaluation and interpretability  
-- Writing clear and structured project documentation
-
 ## How to reach me
 - LinkedIn: https://www.linkedin.com/in/alvis-aditya-b493172b6/
 - Email: alvisdty@gmail.com
